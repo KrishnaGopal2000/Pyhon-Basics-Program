@@ -1,2 +1,0 @@
-# Pyhon-Basics-Program
-Basics
